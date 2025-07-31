@@ -23,7 +23,7 @@ Mine Count
 - Адреса сервера:
 
 ```
-srv.mcount.fun
+srv.mcount.liubquanti.click
 ```
 
 - Порт (Необов'язково на Java):
@@ -63,7 +63,7 @@ Mine Count
 - Адреса сервера:
 
 ```
-srv.mcount.fun
+srv.mcount.liubquanti.click
 ```
 
 Перевірте правильність введених вами даних та тисніть кнопку `Готово`.
@@ -115,7 +115,7 @@ Mine Count
 - Адреса сервера:
 
 ```
-srv.mcount.fun
+srv.mcount.liubquanti.click
 ```
 
 - Порт:

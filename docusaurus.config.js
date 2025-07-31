@@ -11,7 +11,7 @@ const config = {
 	title: 'Mine Count',
 	tagline:
 		'Офіційна вікі Minecraft сервера Mine Count.',
-	url: 'https://wiki.mcount.fun',
+	url: 'https://mcountwiki.liubquanti.click',
 	baseUrl: '/',
 	onBrokenLinks: 'throw',
 	onBrokenMarkdownLinks: 'warn',
@@ -61,7 +61,7 @@ const config = {
 			metadata: [
 				{
 					name: 'og:image',
-					content: 'https://mcount.fun/img/logo-background.png',
+					content: 'https://mcount.liubquanti.click/img/logo-background.png',
 				},
 				{
 					name: 'theme-color',
@@ -82,7 +82,7 @@ const config = {
 				logo: {
 					alt: 'Логотип Mine Count',
 					src: 'img/logo-small.png',
-					href: 'https://mcount.fun',
+					href: 'https://mcount.liubquanti.click',
 					target: '_self',
 				},
 				items: [
@@ -98,7 +98,7 @@ const config = {
 						position: 'left',
 					},
 					{
-						to: 'https://map.mcount.fun',
+						to: 'https://mcountmap.liubquanti.click',
 						label: 'Мапа',
 						position: 'left',
 						target: '_self',

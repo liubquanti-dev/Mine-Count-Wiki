@@ -23,7 +23,7 @@ Mine Count
 * Адреса сервера:
 
 ```text
-srv.mcount.fun
+srv.mcount.liubquanti.click
 ```
 
 ### Для Bedrock видання
@@ -37,7 +37,7 @@ Mine Count
 * Адреса сервера:
 
 ```text
-srv.mcount.fun
+srv.mcount.liubquanti.click
 ```
 
 * Порт:
