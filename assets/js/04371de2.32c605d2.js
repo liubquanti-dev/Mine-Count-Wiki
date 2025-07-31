@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmine_count_wiki=self.webpackChunkmine_count_wiki||[]).push([[728],{4684:e=>{e.exports=JSON.parse('{"name":"docusaurus-theme-search-algolia","id":"default"}')}}]);
